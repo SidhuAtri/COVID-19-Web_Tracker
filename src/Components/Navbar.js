@@ -76,16 +76,7 @@ const Navbar = ({
                 India Stats
               </Link>
             </li>
-            <li className="nav-item">
-              <a
-                className="nav-link"
-                style={{ color: `${currentTheme.textColor}` }}
-                href="#"
-                target="_blank"
-              >
-                GitHub Source
-              </a>
-            </li>
+
             <li className="nav-item">
               <button
                 className={button}
